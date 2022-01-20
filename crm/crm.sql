@@ -3,3 +3,9 @@
 -- e.g. DROP TABLE IF EXISTS ______;
 
 -- CREATE TABLES
+/* tables
+- profile
+- likes
+- comments
+- post
+- users
